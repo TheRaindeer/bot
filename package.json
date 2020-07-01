@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRaindeer/bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/TheRaindeer/bot/issues"
+  },
+  "homepage": "https://github.com/TheRaindeer/bot#readme"
 }
